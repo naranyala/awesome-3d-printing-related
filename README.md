@@ -544,6 +544,7 @@ AI/ML-powered tools for 3D model generation, optimization, and print management.
 ### Text/Image-to-3D AI Generators
 
 - [Meshy AI](https://www.meshy.ai/) - Text/image to 3D; PBR textures; OBJ/FBX/GLB export; Free tier (200 credits/month)
+- [Luphra](https://www.luphra.com/) - Prompt-to-matter: text/sketch to editable 3D and print-ready models; Free tier
 - [Tripo AI](https://www.tripo3d.ai/) - Text/image to 3D; Print-ready export; Free tier (600 credits/month)
 - [Luma AI (Genie)](https://lumalabs.ai/genie) - Text-to-3D; NeRF & Gaussian Splatting; Free tier
 - [CSM AI](https://www.csm.ai/) - Image to 3D; Common Sense Machines; REST API
