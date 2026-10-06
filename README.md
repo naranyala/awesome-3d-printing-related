@@ -526,10 +526,11 @@ Web-based and desktop utilities for 3D printing workflows.
 
 ### Model Conversion & Transformation
 
-- [Vectiler](https://github.com/vectileshp/vectiler) - Vector map to 3D; QGIS integration; (MIT)
+- [CADProps](https://www.cadprops.com/tools/step-to-stl/) - Proprietary browser-based STEP/STP-to-STL mesh converter; sign-in required for conversion.
 - [Image to Lithophane](https://lithophanemaker.com/) - Multiple online converters
 - [STL to G-code Online](https://3dconvert.online/) - Browser-based conversion
 - [SVG to 3D](https://github.com/peterspackman/openscadsvgconverter) - OpenSCAD-based; Script
+- [Vectiler](https://github.com/vectileshp/vectiler) - Vector map to 3D; QGIS integration; (MIT)
 
 ### Cloud Platforms
 
