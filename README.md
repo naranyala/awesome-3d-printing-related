@@ -812,6 +812,7 @@ Information about filament and resin materials for 3D printing.
 - [Product Design Online (Fusion 360)](https://www.youtube.com/playlist?list=PLTJjA__n8n_Rm9nT0D2a2MqNN6K3D0x4Q) - 40+ lessons; Parametric design; Assemblies
 - [Maker's Muse Tutorials](https://www.youtube.com/c/MakersMuse) - Design for FDM/SLA; Tolerances; Functional parts
 - [OpenSCAD Manual](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) - Wikibooks; Functions; Modules; Examples
+- [SolidCraft CAD guide](https://solidcraftcad.com/) - Tutorials and guides for SolidCraft, the open-source parametric 3D CAD app written in Rust
 - [SolidWorks Tutorials](https://help.solidworks.com/) - Official; Part, assembly, drawing; Certification prep
 
 ---
